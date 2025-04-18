@@ -1,6 +1,6 @@
 # Esploro Course Loader Data Transformer
 
-This Python script processes a spreadsheet of course data (from Workday or similar systems), enriches it with researcher IDs, transforms and cleans various fields, and outputs a standardized Excel file ready for Esploro or similar research activity management systems.
+This Python script processes a spreadsheet of course data (This script is written based on Workday, but it can be adapted for similar systems), enriches it with researcher IDs, transforms and cleans various fields, and outputs a standardized Excel file ready for Esploro or similar research activity management systems.
 
 ## Features
 
